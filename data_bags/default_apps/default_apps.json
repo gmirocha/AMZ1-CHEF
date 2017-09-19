@@ -1,0 +1,4 @@
+{
+	"id":"defapps",
+	"apps":["vim","httpd","mysql","gzip","mysql-client"]
+}
